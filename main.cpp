@@ -9,7 +9,6 @@
 
 const unsigned fildSize=32;
 const unsigned cellSize=20;
-
 using coord=std::pair<unsigned, unsigned>;
 
 std::vector<coord> snake;
