@@ -29,3 +29,4 @@ gccglに実行権限を与えてください。その後scriptファイルを使
 $./gccgl main.cpp
 $./a.out
 ~~~
+![ゲーム画面](https://user-images.githubusercontent.com/39081837/55276647-802a2e00-5339-11e9-8cb3-b514f3fc8e53.jpg)
